@@ -74,4 +74,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Arduino community for the incredible support and resources.
 - TinyGPS library for GPS functionalities.
 - LiquidCrystal library for interfacing with the LCD display.
-```
+  
